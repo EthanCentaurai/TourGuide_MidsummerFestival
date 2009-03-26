@@ -1,0 +1,11 @@
+﻿## Interface: 30100
+## Title: Tour Guide (Midsummer Fire Festival)
+## Notes: An easy-to-follow guide for visiting all of the Midsummer Festival bonfires.
+## Author: Ethan Centaurai
+## Version: 0.1.0
+## RequiredDeps: TourGuide
+
+Core.lua
+
+# Alliance.lua
+Horde.lua
