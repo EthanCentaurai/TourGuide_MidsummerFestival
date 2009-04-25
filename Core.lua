@@ -1,4 +1,4 @@
-﻿
+
 local F = CreateFrame("Frame")
 F:Hide()
 F:SetScript("OnEvent", function(self, event, msg)
