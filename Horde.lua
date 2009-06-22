@@ -43,7 +43,7 @@ T Honor the Flame (Part 9) |N|(52,28)| |Z|The Barrens| |QID|11859|
 R Durotar
 T Honor the Flame (Part 10) |N|(52,47)| |Z|Durotar| |QID|11846|
 
-B Booty Bay |N|Run to Ratchet and catch a boat|
+b Booty Bay |N|Run to Ratchet and catch a boat|
 T Honor the Flame (Part 11) |N|(32,75) |Z|Stranglethorn Vale| |QID|11837|
 T Desecrate this Fire! (Part 6) |N|(33,73)| |Z|Stranglethorn Vale| |QID|11761|
 
@@ -123,14 +123,14 @@ T Desecrate this Fire! (Part 24) |N|(38,54)| |Z|Ashenvale| |QID|11734|
 R Darkshore
 T Desecrate this Fire! (Part 25) |N|(37,46)| |Z|Darkshore| |QID|11740|
 
-B Azuremyst Isle
+b Azuremyst Isle
 A Stealing the Exodar's Flame |N|Loot the bonfire for an item which starts this quest. (41,24)| |Z|The Exodar| |U|35569| |QID|11933|
 T Desecrate this Fire! (Part 26) |N|(44,53)| |Z|Azuremyst Isle| |QID|11735|
 
 R Bloodmyst Isle
 T Desecrate this Fire! (Part 27) |N|(55,69)| |Z|Bloodmyst Isle| |QID|11738|
 
-B Rut'theran Village
+b Rut'theran Village
 A Stealing Darnassus's Flame |N|Loot the bonfire for an item which starts this quest. (55,91)| |Z|Teldrassil| |U|23184| |QID|9332|
 T Desecrate this Fire! (Part 28) |N|(55,60)| |Z|Teldrassil| |QID|11753|
 
