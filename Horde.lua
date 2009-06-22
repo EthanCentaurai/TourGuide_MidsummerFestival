@@ -45,56 +45,56 @@ R Durotar
 T Honor the Flame (Part 11) |N|(52,47)| |Z|Durotar| |QID|11846|
 
 b Booty Bay |N|Run to Ratchet and catch a boat|
-T Honor the Flame (Part 12) |N|(32,75) |Z|Stranglethorn Vale| |QID|11837|
-T Desecrate this Fire! (Part 6) |N|(33,73)| |Z|Stranglethorn Vale| |QID|11761|
+T Honor the Flame (Part 12) |N|(33,75.2) |Z|Stranglethorn Vale| |QID|11837|
+T Desecrate this Fire! (Part 6) |N|(33.9,73.6)| |Z|Stranglethorn Vale| |QID|11761|
 
 F Stonard
 T Honor the Flame (Part 13) |N|(47,47)| |Z|Swamp of Sorrows| |QID|11857|
 
 R Blasted Lands
-T Desecrate this Fire! (Part 7) |N|(58,17)| |Z|Blasted Lands| |QID|11737|
+T Desecrate this Fire! (Part 7) |N|(59.3,17.1)| |Z|Blasted Lands| |QID|11737|
 
 R Duskwood
-T Desecrate this Fire! (Part 8) |N|(74,51)| |Z|Duskwood| |QID|11743|
+T Desecrate this Fire! (Part 8) |N|(73.7,54.5)| |Z|Duskwood| |QID|11743|
 
 R Westfall
-T Desecrate this Fire! (Part 9) |N|(56,54)| |Z|Westfall| |QID|11581|
+T Desecrate this Fire! (Part 9) |N|(56,53.4)| |Z|Westfall| |QID|11581|
 
 R Elwynn Forest
-T Desecrate this Fire! (Part 10) |N|(43,65)| |Z|Elwynn Forest| |QID|11745|
+T Desecrate this Fire! (Part 10) |N|(43.5,62.7)| |Z|Elwynn Forest| |QID|11745|
 
 R Stormwind City
 A Stealing Stormwind's Flame |N|Loot the bonfire for an item which starts this quest. (53,71)| |Z|Stormwind City| |U|23182| |QID|9330|
 
 R Redridge Mountains
-T Desecrate this Fire! (Part 11) |N|(24,59)| |Z|Redridge Mountains| |QID|11751|
+T Desecrate this Fire! (Part 11) |N|(25.4,59.1)| |Z|Redridge Mountains| |QID|11751|
 
 R Burning Steppes
-T Desecrate this Fire! (Part 12) |N|(80,62)| |Z|Burning Steppes| |QID|11739|
-T Honor the Flame (Part 14) |N|(62,29)| |Z|Burning Steppes| |QID|11844|
+T Desecrate this Fire! (Part 12) |N|(80.3,62.7)| |Z|Burning Steppes| |QID|11739|
+T Honor the Flame (Part 14) |N|(61.8,29.2)| |Z|Burning Steppes| |QID|11844|
 
 F Kargath
 T Honor the Flame (Part 15) |N|(4,49)| |Z|Badlands| |QID|11842|
 
 R Loch Modan
-T Desecrate this Fire! (Part 13) |N|(32,40)| |Z|Loch Modan| |QID|11749|
+T Desecrate this Fire! (Part 13) |N|(32.4,41.2)| |Z|Loch Modan| |QID|11749|
 
 R Dun Morogh
-T Desecrate this Fire! (Part 14) |N|(46,46)| |Z|Dun Morogh| |QID|11742|
+T Desecrate this Fire! (Part 14) |N|(46.7,46.9)| |Z|Dun Morogh| |QID|11742|
 
 R Ironforge
 A Stealing Ironforge's Flame |N|Loot the bonfire for an item which starts this quest. (62,45)| |Z|Ironforge| |U|23183| |QID|9331|
 
 R Wetlands
-T Desecrate this Fire! (Part 15) |N|(13,47)| |Z|Wetlands| |QID|11757|
+T Desecrate this Fire! (Part 15) |N|(13.5,47.1)| |Z|Wetlands| |QID|11757|
 
 R Arathi Highlands
-T Desecrate this Fire! (Part 16) |N|(50,44)| |Z|Arathi Highlands| |QID|11732|
-T Honor the Flame (Part 16) |N|(74,41)| |Z|Arathi Highlands| |QID|11840|
+T Desecrate this Fire! (Part 16) |N|(50,44.7)| |Z|Arathi Highlands| |QID|11732|
+T Honor the Flame (Part 16) |N|(74.3,41.5)| |Z|Arathi Highlands| |QID|11840|
 
 F Tarren Mill
-T Honor the Flame (Part 17) |N|(58,25)| |Z|Hillsbrad Foothils| |QID|11853|
-T Desecrate this Fire! (Part 17) |N|(50,46)| |Z|Hillsbrad Foothills| |QID|11748|
+T Honor the Flame (Part 17) |N|(58.6,25.3)| |Z|Hillsbrad Foothils| |QID|11853|
+T Desecrate this Fire! (Part 17) |N|(50.5,47.7)| |Z|Hillsbrad Foothills| |QID|11748|
 
 F The Sepulcher |N|Fly from Tarren Mill|
 T Honor the Flame (Part 18) |N|(49,38)| |Z|Silverpine Forest| |QID|11584|
@@ -104,11 +104,11 @@ T Honor the Flame (Part 19) |N|(46,50)| |Z|Eversong Woods| |QID|11848|
 T Honor the Flame (Part 20) |N|(46,26)| |Z|Ghostlands| |QID|11850|
 
 F Revantusk Village
-T Honor the Flame (Part 21) |N|(76,74)| |Z|The Hinterlands| |QID|11860|
-T Desecrate this Fire! (Part 18) |N|(14,50)| |Z|The Hinterlands| |QID|11755|
+T Honor the Flame (Part 21) |N|(76.6,75.1)| |Z|The Hinterlands| |QID|11860|
+T Desecrate this Fire! (Part 18) |N|(14.3,50.2)| |Z|The Hinterlands| |QID|11755|
 
 R Western Plaguelands
-T Desecrate this Fire! (Part 19) |N|(43,82)| |Z|Western Plaguelands| |QID|11756|
+T Desecrate this Fire! (Part 19) |N|(43.4,82.4)| |Z|Western Plaguelands| |QID|11756|
 
 R Tirisfal Glades
 T Honor the Flame (Part 22) |N|(57,52)| |Z|Tirisfal Glades| |QID|11862|
