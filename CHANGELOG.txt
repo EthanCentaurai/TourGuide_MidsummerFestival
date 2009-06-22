@@ -1,2 +1,6 @@
+Version 0.2
+- Hefty rewrite of the Horde guide, now includes more up-to-date co-ordinates and less bugs.
+- The Alliance guide is still a lie.
+
 Version 0.1
-- Initial release. Only includes a guide for the Horde at the moment, Alliance guide coming soon.
+- Initial release.  Only includes a guide for the Horde at the moment, Alliance guide coming soon.
