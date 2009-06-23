@@ -80,7 +80,7 @@ R Dun Morogh
 T Desecrate this Fire! (Part 14) |N|(46.7,46.9)| |Z|Dun Morogh|
 
 R Ironforge
-A Stealing Ironforge's Flame |N|Loot the bonfire for an item which starts this quest. (62.4,20.7)| |Z|Ironforge| |U|23183| |QID|9331|
+A Stealing Ironforge's Flame |N|Loot the bonfire for an item which starts this quest. (64.4,25.4)| |Z|Ironforge| |U|23183| |QID|9331|
 
 R Wetlands
 T Desecrate this Fire! (Part 15) |N|(13.5,47.1)| |Z|Wetlands|
