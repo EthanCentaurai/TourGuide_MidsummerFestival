@@ -160,6 +160,39 @@ R Netherstorm
 T Desecrate this Fire! (Part 35) |N|(31.2,62.6)| |Z|Netherstorm|
 T Honor the Flame (Part 30) |N|(32.1,68.4) |Z|Netherstorm|
 
+H Dalaran
+F Crystalsong Forest
+T Desecrate this Fire! (Part 36) |N|(78,75)| |Z|Crystalsong Forest|
+T Honor the Flame (Part 31) |N|(80,53)| |Z|Crystalsong Forest|
+
+F The Storm Peaks
+T Desecrate this Fire! (Part 37) |N|(42,87)| |Z|The Storm Peaks|
+T Honor the Flame (Part 32) |N|(40,86)| |Z|The Storm Peaks|
+
+F Zul'Drak
+T Desecrate this Fire! (Part 38) |N|(41,61)| |Z|Zul'Drak|
+T Honor the Flame (Part 33) |N|(43,71)| |Z|Zul'Drak|
+
+F Grizzly Hills
+T Desecrate this Fire! (Part 39) |N|(34,61)| |Z|Grizzly Hills|
+T Honor the Flame (Part 34) |N|(19,61)| |Z|Grizzly Hills|
+
+F Howling Fjord
+T Honor the Flame (Part 35) |N|(48,13)| |Z|Howling Fjord|
+T Desecrate this Fire! (Part 40) |N|(58,16)| |Z|Howling Fjord|
+
+F Dragonblight
+T Desecrate this Fire! (Part 41) |N|(75,44)| |Z|Dragonblight|
+T Honor the Flame (Part 36) |N|(39,48)| |Z|Dragonblight|
+
+F Borean Tundra
+T Desecrate this Fire! (Part 42) |N|(55,20)| |Z|Borean Tundra|
+T Honor the Flame (Part 37) |N|(51,12)| |Z|Borean Tundra|
+
+F Sholazar Basin
+T Honor the Flame (Part 38) |N|(47,62)| |Z|Sholazar Basin|
+T Desecrate this Fire! (Part 43) |N|(47,66)| |Z|Sholazar Basin|
+
 T Stealing Stormwind's Flame |N|In any capital city.| |QID|9330|
 T Stealing Ironforge's Flame |QID|9331|
 T Stealing Darnassus's Flame |QID|9332|
