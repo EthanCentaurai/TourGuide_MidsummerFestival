@@ -90,7 +90,7 @@ T Desecrate this Fire! (Part 16) |N|(50,44.7)| |Z|Arathi Highlands|
 T Honor the Flame (Part 15) |N|(74.3,41.5)| |Z|Arathi Highlands|
 
 F Tarren Mill
-T Honor the Flame (Part 16) |N|(58.6,25.3)| |Z|Hillsbrad Foothils|
+T Honor the Flame (Part 16) |N|(58.6,25.3)| |Z|Hillsbrad Foothills|
 T Desecrate this Fire! (Part 17) |N|(50.5,47.7)| |Z|Hillsbrad Foothills|
 
 F The Sepulcher |N|Fly from Tarren Mill|
