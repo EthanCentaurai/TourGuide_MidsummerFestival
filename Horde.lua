@@ -7,7 +7,7 @@ h Dalaran |N|If you are currently in Dalaran, make sure to set your Hearthstone 
 R Thunder Bluff |N|Use the portal|
 
 R Bloodhoof Village
-T Honor the Flame (Part 1) |N|(51.9,69.7)| |Z|Mulgore|
+T Honor the Flame (Part 1) |N|(51.9,59.7)| |Z|Mulgore|
 
 F Dustwallow Marsh
 T Honor the Flame (Part 2) |N|(33.5,31)| |Z|Dustwallow Marsh|
