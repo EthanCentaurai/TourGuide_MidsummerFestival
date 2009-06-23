@@ -1,3 +1,6 @@
+Version 0.31
+- Fixed a couple of co-ordinates.  Some weren't working, some were incorrect.
+
 Version 0.3
 - Fixed a bug where TourGuide's status window wouldn't update correctly after visiting a bonfire.
 - Added the fires of Northrend.  Thanks, sayling!
