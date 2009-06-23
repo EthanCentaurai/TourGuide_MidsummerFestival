@@ -29,7 +29,7 @@ T Honor the Flame (Part 6) |N|(72.4,47.8)| |Z|Ferelas|
 T Desecrate this Fire! (Part 4) |N|(28.3,43.8)| |Z|Feralas|
 
 R Desolace
-T Desecrate this Fire! (Part 5) |N|66.1,17.2)| |Z|Desolace|
+T Desecrate this Fire! (Part 5) |N|(66.1,17.2)| |Z|Desolace|
 T Honor the Flame (Part 7) |N|(26.1,76.8)| |Z|Desolace|
 
 R Stonetalon Mountains
