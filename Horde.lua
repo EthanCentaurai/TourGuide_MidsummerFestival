@@ -133,8 +133,8 @@ A Stealing Darnassus's Flame |N|Loot the bonfire for an item which starts this q
 T Desecrate this Fire! (Part 28) |N|(55.1,60.3)| |Z|Teldrassil|
 
 R Shattrath City |N|Hearth to Dalaran, take the portal|
-T Honor the Flame (Part 24) |N|(52,42.9)| |Z|Terrokar Forest|
-T Desecrate this Fire! (Part 29) |N|(54.1,55.4)| |Z|Terrokar Forest|
+T Honor the Flame (Part 24) |N|(52,42.9)| |Z|Terokkar Forest|
+T Desecrate this Fire! (Part 29) |N|(54.1,55.4)| |Z|Terokkar Forest|
 
 R Shadowmoon Valley
 T Desecrate this Fire! (Part 30) |N|(39.7,54.6)| |Z|Shadowmoon Valley|
