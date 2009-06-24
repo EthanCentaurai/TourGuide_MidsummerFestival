@@ -25,7 +25,7 @@ T Honor the Flame (Part 5) |N|(46.4,44.3)| |Z|Silithus|
 T Desecrate this Fire! (Part 3) |N|(57.5,35.4)| |Z|Silithus|
 
 F Feralas
-T Honor the Flame (Part 6) |N|(72.4,47.8)| |Z|Ferelas|
+T Honor the Flame (Part 6) |N|(72.4,47.8)| |Z|Feralas|
 T Desecrate this Fire! (Part 4) |N|(28.3,43.8)| |Z|Feralas|
 
 R Desolace
