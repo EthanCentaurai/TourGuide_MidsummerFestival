@@ -1,3 +1,6 @@
+Version 0.4
+- Alliance guide has been added! A huge thanks goes to Aenora for the help!
+
 Version 0.3.2
 - Rearranged the Desolace flames.
 - Fixed a few more typos.
