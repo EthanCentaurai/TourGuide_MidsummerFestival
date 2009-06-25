@@ -7,5 +7,5 @@
 
 Core.lua
 
-# Alliance.lua
+Alliance.lua
 Horde.lua
