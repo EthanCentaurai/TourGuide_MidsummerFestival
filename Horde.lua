@@ -198,4 +198,6 @@ T Stealing Ironforge's Flame |QID|9331|
 T Stealing Darnassus's Flame |QID|9332|
 T Stealing the Exodar's Flame |QID|11933|
 
+N The End |N|That's all for this year.  See you in 2011!|
+
 ]] end)

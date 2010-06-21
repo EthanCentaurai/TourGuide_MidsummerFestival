@@ -1,7 +1,7 @@
 
 TourGuide:RegisterGuide("Midsummer Fire Festival (80+)", nil, "Alliance", function() return [[
 
-N Notes |N|This guide is geared toward actually completing all the achievements necessary to become a Flame Warden.  Check off and skip the extra quests if you just wish to use it as a guide to getting all the bonfires.|
+N Wall of Text |N|This guide is geared toward actually completing all the achievements necessary to become a Flame Warden.  Check off and skip the extra quests if you just wish to use it as a guide to getting all the bonfires.|
 
 h Dalaran |N|If you are currently in Dalaran, make sure to set your Hearthstone there if you haven't already done so.  You'll be coming back later.|
 
@@ -140,8 +140,6 @@ T Honor the Flame (Part 17) |N|Right next to the FP. (55.93,53.47)| |Z|Westfall|
 
 F Stormwind City |N|Take the FP to Stormwind.|
 T Inform the Elder |N|Earthen Ring Elder. (49.32,72.28)| |QID|12012| |Z|Stormwind City|
-A Striking Back |N|This quest is different depending on your level. Complete it and turn it in at your convenience.|
-A Ahune, the Frost Lord |QID|11955|
 
 R Elwynn Forest |N|Exit Stormwind to Elwynn Forest.|
 T Honor the Flame (Part 18) |N|Northeast of the Inn in Goldshire. (43.48,62.64)| |Z|Elwynn Forest|
@@ -205,18 +203,6 @@ T Desecrate this Fire! (Part 24) |N|West of Garadar. (51.06,34.11)| |Z|Nagrand|
 
 R Zangarmarsh |N|Go North to Zangarmarsh.|
 T Honor the Flame (Part 27) |N|South of Telredor. (68.79,51.93)| |Z|Zangarmarsh|
-
-R Slave Pens
-T Ahune, the Frost Lord |QID|11955|
-A Ahune is Here! |QID|11696|
-T Ahune is Here! |QID|11696|
-
-A Summon Ahune |QID|11691| |N|Tatics: Everyone in your party can summon Ahune once per day. So you will be able to fight him 5 times if you wish. Ahune is a two-phase fight. Ahune does not need to be tanked. During the first phase, have your tank pick up the largest add and have most of your DPS focus on it. One DPS should be designated to picking up and killing the other little adds. Mainly to keep them off the healer. Phase two will begin when you get a raid warning that says something like 'Ahune has retreated'. He will change forms and become vulnerable to damage so all DPS needs to focus on him until phase 1 begins again. Note that Ahune will drop different loot depending on if the instance is normal or heroic.|
-
-A Shards of Ahune |QID|11972|
-T Shards of Ahune |QID|11972|
-
-R Zangarmarsh
 T Desecrate this Fire! (Part 25) |N|East of Zabra'jin. (35.61,51.76)| |Z|Zangarmarsh|
 
 R Orebor Harborage |N|Head North to Orebor Harborage.|
@@ -259,35 +245,35 @@ N Keep Going? |N|Need more blossoms and cash?  Hit up the new Northrend bonfires
 H Dalaran |N|Hearth to Dalaran|
 
 F Windrunner's Overlook |N|Fly to Windrunner's Overlook in Crystalsong Forest.|
-T Honor the Flame (Part 33) |N|Northeast of Windrunner's Overlook. (78.17,74.95) |Z|Crystalsong Forest|
-T Desecrate this Fire! (Part 31) |N|Southeast of Sunreaver's Command. (80.34,52.87) |Z|Crystalsong Forest|
+T Honor the Flame (Part 33) |N|Northeast of Windrunner's Overlook. (78.17,74.95)| |Z|Crystalsong Forest|
+T Desecrate this Fire! (Part 31) |N|Southeast of Sunreaver's Command. (80.34,52.87)| |Z|Crystalsong Forest|
 
-T Honor the Flame (Part 34) |N|Southeast of K3. (41.44,86.69) |Z|The Storm Peaks|
-T Desecrate this Fire! (Part 32) |N|Northwest of K3. (40.41,85.61) |Z|The Storm Peaks|
+T Honor the Flame (Part 34) |N|Southeast of K3. (41.44,86.69)| |Z|The Storm Peaks|
+T Desecrate this Fire! (Part 32) |N|Northwest of K3. (40.41,85.61)| |Z|The Storm Peaks|
 
 F The Argent Stand |N|Take the FP to The Argent Stand in Zul'Drak.|
-T Honor the Flame (Part 35) |N|Northwest of The Argent Stand. (40.38,61.30) |Z|Zul'Drak|
-T Desecrate this Fire! (Part 33) |N|Southeast of The Argent Stand. (43.28,71.25) |Z|Zul'Drak|
+T Honor the Flame (Part 35) |N|Northwest of The Argent Stand. (40.38,61.30)| |Z|Zul'Drak|
+T Desecrate this Fire! (Part 33) |N|Southeast of The Argent Stand. (43.28,71.25)| |Z|Zul'Drak|
 
 F Amberpine Lodge |N|Take the FP to Amberpine Lodge in Grizzly Hills.|
-T Honor the Flame (Part 36) |N|East of Amberpine Lodge. (33.90,60.45) |Z|Grizzly Hills|
-T Desecrate this Fire! (Part 34) |N|Northwest of Conquest Hold. (19.08,61.42) |Z|Grizzly Hills|
+T Honor the Flame (Part 36) |N|East of Amberpine Lodge. (33.90,60.45)| |Z|Grizzly Hills|
+T Desecrate this Fire! (Part 34) |N|Northwest of Conquest Hold. (19.08,61.42)| |Z|Grizzly Hills|
 
-T Desecrate this Fire! (Part 35) |N|South of Camp Winterhoof in Howling Fjord. (48.45,13.34) |Z|Howling Fjord|
-T Honor the Flame (Part 37) |N|West of Fort Wildervar. (57.80,16.12) |Z|Howling Fjord|
+T Desecrate this Fire! (Part 35) |N|South of Camp Winterhoof in Howling Fjord. (48.45,13.34)| |Z|Howling Fjord|
+T Honor the Flame (Part 37) |N|West of Fort Wildervar. (57.80,16.12)| |Z|Howling Fjord|
 
 F Wintergarde Keep |N|Take the FP to Wintergarde Keep in Dragonblight.|
-T Honor the Flame (Part 38) |N|Northwest of Wintergarde Keep. (75.29,43.80) |Z|Dragonblight|
-T Desecrate this Fire! (Part 36) |N|Southeast of Agmar's Hammer. (38.51,48.25) |Z|Dragonblight|
+T Honor the Flame (Part 38) |N|Northwest of Wintergarde Keep. (75.29,43.80)| |Z|Dragonblight|
+T Desecrate this Fire! (Part 36) |N|Southeast of Agmar's Hammer. (38.51,48.25)| |Z|Dragonblight|
 
 R Stars' Rest |N|Go to Star's Rest to take the flyer, or just head to Borean Tundra.|
 F Fizzcrank Airstrip |N|Fly to Fizzcrank Airstrip in Borean Tundra.|
-T Honor the Flame (Part 39) |N|West of Fizzcrank Airstrip. (55.10,19.95) |Z|Borean Tundra|
-T Desecrate this Fire! (Part 37) |N|Southeast of Bor'gorok Outpost. (51.06,11.86) |Z|Borean Tundra|
+T Honor the Flame (Part 39) |N|West of Fizzcrank Airstrip. (55.10,19.95)| |Z|Borean Tundra|
+T Desecrate this Fire! (Part 37) |N|Southeast of Bor'gorok Outpost. (51.06,11.86)| |Z|Borean Tundra|
 
-T Honor the Flame (Part 40) |N|At River's Heart in Sholazar Basin. (48.09,66.37) |Z|Sholazar Basin|
-T Desecrate this Fire! (Part 38) |N|At River's Heart in Sholazar Basin. (47.33,61.57) |Z|Sholazar Basin|
+T Honor the Flame (Part 40) |N|At River's Heart in Sholazar Basin. (48.09,66.37)| |Z|Sholazar Basin|
+T Desecrate this Fire! (Part 38) |N|At River's Heart in Sholazar Basin. (47.33,61.57)| |Z|Sholazar Basin|
 
-N Done |N|That's all for 2009.  Hope you had fun!|
+N The End |N|That's all for this year.  See you in 2011!|
 
 ]] end)
